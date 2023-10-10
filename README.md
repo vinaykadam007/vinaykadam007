@@ -3,9 +3,8 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c25ef3cf27dbd1a6dc65574562c4194bc6107a70b014f5a091860d35471daa83/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323334343830312f73637265656e73686f74732f343737343537382f616c70686174657374657273616e696d6174696f6e322e6769663f7261773d74727565">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykadam007&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykadam007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaykadam007" alt="vinaykadam007" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykadam007&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykadam007" /> </p>
 
 - 🔭 I’m currently working on **managing my time, and being productive.**
 
