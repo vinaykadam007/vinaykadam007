@@ -1,5 +1,6 @@
 [![MasterHead](https://pitcases.org/wp-content/uploads/2023/01/DATA_AI_HEADER_ANI.gif)](https://vinykadam007.io)
-<h1 align="center">Hey there 👋. I'm Vinay</h1>
+<h1 align="center">Hey there 👋 !!
+  I'm Vinay</h1>
 <h3 align="center">A passionate Machine learning and Data scientist enthusiast</h3>
 
 
