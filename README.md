@@ -1,6 +1,5 @@
 
-<h1 align="center">Hey there 👋 !!
-  I'm Vinay</h1>
+<h1 align="center">Hey there 👋 I'm Vinay !!</h1>
 <h3 align="center">A passionate Machine learning and Data scientist enthusiast</h3>
 
 
