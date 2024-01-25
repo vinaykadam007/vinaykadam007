@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey there 👋 I'm Vinay !!</h1>
-<h3 align="center">A passionate Machine learning and Data scientist enthusiast</h3>
+<h3 align="center">A passionate Machine learning and Data science enthusiast</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c25ef3cf27dbd1a6dc65574562c4194bc6107a70b014f5a091860d35471daa83/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323334343830312f73637265656e73686f74732f343737343537382f616c70686174657374657273616e696d6174696f6e322e6769663f7261773d74727565">
