@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **managing my time, and being productive.**
 
-- 🌱 I’m currently learning **Microsoft Azure for machine learning**
+- 🌱 I’m currently learning **GenAI & LLM'S for Healthcare**
 
 - 👯 I’m looking to collaborate on **on any idea that impresses me.**
 
