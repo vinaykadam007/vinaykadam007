@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **managing my time, and being productive.**
 
-- 🌱 I’m currently learning **GenAI & LLM's for Healthcare**
+- 🌱 I’m currently learning **GenAI & LLM's for Healthcare.**
 
 - 👯 I’m looking to collaborate on **on any idea that impresses me.**
 
-- 💬 Ask me about **Python, Machine learning, Data analytics, etc**
+- 💬 Ask me about **Python, Machine learning, Data analytics, etc.**
 
 - 📫 How to reach me **vinay0745@gmail.com**
 
