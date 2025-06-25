@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Machine learning and Data science enthusiast</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+<img align="right" alt="Coding" width="400" src="https://drive.usercontent.google.com/download?id=10VjTXymvFSHB6WdWKSEv0XqiaMbMTZBp&export=view&authuser=0">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykadam007&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykadam007" /> </p>
