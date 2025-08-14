@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey there 👋 I'm Vinay !!</h1>
-<h3 align="center">A passionate Machine learning and Data science enthusiast</h3>
+<h3 align="center">A passionate AI, Machine learning and Computer vision enthusiast</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://drive.usercontent.google.com/download?id=10VjTXymvFSHB6WdWKSEv0XqiaMbMTZBp&export=view&authuser=0">
@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykadam007&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykadam007" /> </p>
 
-- 🌱 I’m currently learning about **GenAI & LLM's.**
+- 🌱 I’m currently learning about **GenAI, LLM's, Vision transformers, .**
 
-- 👯 I’m looking to collaborate on **on any idea that impresses me.**
+- 👯 I’m looking to collaborate on **on any idea that improves healthcare.**
 
-- 💬 Ask me about **Python, Machine learning, Data analytics, etc.**
+- 💬 Ask me about **Python, AI, Machine learning, Computer vision, etc.**
 
 - 📫 How to reach me **vinay0745@gmail.com**
 
