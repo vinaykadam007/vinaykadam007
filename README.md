@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinaykadam007&label=Profile%20views&color=0e75b6&style=flat" alt="vinaykadam007" /> </p>
 
-- 🌱 I’m currently learning about **GenAI, LLM's, Vision transformers, .**
+- 🌱 I’m currently learning about **GenAI, LLM's, Vision transformers.**
 
 - 👯 I’m looking to collaborate on **on any idea that improves healthcare.**
 
