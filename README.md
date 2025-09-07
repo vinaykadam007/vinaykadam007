@@ -46,9 +46,6 @@
 ---
 
 ### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinaykadam007&show_icons=true&theme=tokyonight" alt="vinaykadam007" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaykadam007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vinaykadam007" />
