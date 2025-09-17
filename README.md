@@ -42,11 +42,3 @@
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
   <!-- Add more icons as you wish -->
 </p>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaykadam007&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vinaykadam007" />
-</p>
